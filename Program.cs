@@ -11,6 +11,7 @@ namespace 原始的スタック
         
         static int[]stack=new int[10];
         static int a = 0;
+        static int b;
 
         static void push(int b) 
         {   
