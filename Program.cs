@@ -11,7 +11,12 @@ namespace 原始的スタック
         
         static int[]stack=new int[10];
         static int a = 0;
+<<<<<<< HEAD
         static int b = 180;
+=======
+        static int b;
+
+>>>>>>> refs/remotes/origin/new-one
         static void push(int b) 
         {   
             stack[a]=b;
