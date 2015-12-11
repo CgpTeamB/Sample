@@ -13,6 +13,7 @@ namespace 原始的スタック
         static int a = 0;
         static int b = 180;
         static void push(int b) 
+        static int c;
         {   
             stack[a]=b;
             a++;
